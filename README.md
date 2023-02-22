@@ -3,3 +3,4 @@
 
 *  Sincronia de funções Javascript -- Trabalhando com Callback
 * Resolução de Promises com async/await 
+*  Manipulação de listas
